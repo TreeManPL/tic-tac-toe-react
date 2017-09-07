@@ -1,0 +1,13 @@
+.endGameInfo {
+  font-size: 30px;
+  margin: 0px;
+}
+
+a.btn {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+a.btn:hover {
+  text-decoration: underline;
+}

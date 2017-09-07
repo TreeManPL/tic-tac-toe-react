@@ -1,0 +1,26 @@
+.game div {
+            float: left;
+            width: 30%;
+            height: 30%;
+}
+
+.game div::before{
+	content: "\200B";
+}
+
+.game div:nth-child(3n+1) {
+    clear: both;
+}
+
+.game div:nth-child(3n+2) {
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+
+}
+.game div:nth-child(n+4) {
+    border-top: 2px solid #000;
+}
+
+.game .win {
+    background: #e6ffe6;
+}
