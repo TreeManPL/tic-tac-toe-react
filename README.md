@@ -2,6 +2,8 @@
 
 Tic tac toe game that use some code from React tutorial [https://facebook.github.io/react/tutorial/tutorial.html]
 
+Live preview [https://treemanpl.github.io/tic-tac-toe/react/index.html]
+
 # Available commands
 
 Running the project
